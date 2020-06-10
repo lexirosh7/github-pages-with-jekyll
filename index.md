@@ -1,3 +1,16 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+My name is Lexi Roshkovan and this is my final project for AP Computer Science Principles!
+
+<img src="IMG_7378.jpg" width="300">
+
+# Social Media Information:  
+
+instagram: lexirosh  
+twitter: lexirosh   
+
+# My life:   
+I am currently a senior at East Brunswick High School and I am going to University of California - Santa Barbara next year  and I plan to major in biology. I also have a sister who just recently graduated from Rutgers University. I was born in   Israel but I shortly moved to New Jersey when I was young. I am now 18 years old and I like playing tennis and painting  in my free time.   
+
+# Fun facts:  
+I am currently Vice President of Science Honors Society and I am involved in social outreach.  I work at East Brunswick Chinese as a cashier and I have worked as a camp counselor at Lakeview for several years.  I enjoy volunteering and I am involved with East Brunswick Youth Council as both a member and an excutive board member.
