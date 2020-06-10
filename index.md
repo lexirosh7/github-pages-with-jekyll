@@ -1,5 +1,3 @@
-# Welcome to my blog
-
 My name is Lexi Roshkovan and this is my final project for AP Computer Science Principles!
 
 <img src="IMG_7378.jpg" width="300">
