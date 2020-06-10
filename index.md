@@ -4,8 +4,8 @@ My name is Lexi Roshkovan and this is my final AP Computer Science Principles Pr
 <img src="IMG_7378.jpg" width="300">
 
 # Social Media Information:   
-instagram: @lexirosh  
-twitter: @lexirosh   
+instagram: lexirosh  
+twitter: lexirosh   
 
 # My life:   
 I am currently a senior at East Brunswick High School and I am going to University of California - Santa Barbara next year  and I plan to major in biology. I also have a sister who just recently graduated from Rutgers University. I was born in   Israel but I shortly moved to New Jersey when I was young. I am now 18 years old and I like playing tennis and painting  in my free time.   
